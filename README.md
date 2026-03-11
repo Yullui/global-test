@@ -10,6 +10,7 @@ Core Features
     One-Click Ticketing: Generates a deterministic, hashed Ticket ID (e.g., SOC-022FEEBF) and dispatches a full Incident Report to a specified Proton Mail account.
 
     Secure SMTP Logic: Uses Python's EmailMessage class and STARTTLS to handle secure authentication and Unicode characters (emojis) in threat alerts.
+<img width="1772" height="417" alt="image" src="https://github.com/user-attachments/assets/fc3b43c5-d644-4985-a23d-4d2f138b5757" />
 
 System Requirements
 
