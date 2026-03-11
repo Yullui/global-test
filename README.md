@@ -1,8 +1,6 @@
-To tie this all together, here is a professional README.md that documents how your SOC Command Center works. I have separated the documentation for the core dashboard and the standalone mailer utility.
-🛡️ SOC Command Center: Agentic EDR Dashboard
 Overview
 
-The SOC Command Center is a real-time Security Operations Center (SOC) dashboard built with Streamlit. It visualizes threat vectors from blacklisted IPs to your local SOC location (Colorado Springs) and allows for one-click incident reporting via a secure SMTP integration.
+The SOC Command Center is a real-time Security Operations Center (SOC) dashboard built with Streamlit. It visualizes threat vectors from blacklisted IPs to your local SOC location  and allows for one-click incident reporting via a secure SMTP integration.
 Core Features
 
     Geospatial Visualization: Maps incoming threat IPs from a blacklist.txt file against a MaxMind GeoLite2 database to show physical attack vectors.
